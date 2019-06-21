@@ -1,0 +1,19 @@
+SMAP
+add_005fnewbook_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_newbook.jsp
+add_newbook.jsp
+*L
+5,2:44
+11,15:46
+25,4:61
+28,10:65
+38:75,3
+39,10:78
+49,2:89
+50,19:91
+69:110,3
+70,116:113
+*E
